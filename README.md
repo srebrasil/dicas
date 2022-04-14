@@ -1,5 +1,14 @@
 # dicas
 Pipeline de Dicas SRE Brasil
+Quer compartilhar uma dica com a comunidade. Basta mandar essas informações no canal #srebrasil_dicas no slack (https://join.slack.com/t/sre-brasil/shared_invite/zt-6dednrwy-aUg7vaeGafu0ZsUBeZ4hsQ) com as informações abaixo
+
+Dica:
+Nome:
+Perfil no LinkedIn:
+
+Iremos gerar um post no formato abaixo e compartilhar com a comunidade SRE Brasil
+
+![template](images/SRE%20Brasil%20Dicas%20-%20template.png)
 
 ## 2022
 ### 04 - Abril
