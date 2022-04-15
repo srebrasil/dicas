@@ -17,3 +17,4 @@ Iremos gerar um post no formato abaixo e compartilhar com a comunidade SRE Brasi
 ### 04 - Abril
 
 * Dica #1 [Tito Garrido Ogando](2022/04/dica_01/dica_01.md)
+* Dica #2 [Rootnilson Culposo](/2022/04/dica_02/dica_02.md)
