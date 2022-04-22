@@ -19,3 +19,4 @@ Iremos gerar um post no formato abaixo e compartilhar com a comunidade SRE Brasi
 * Dica #1 [Tito Garrido Ogando](2022/04/dica_01/dica_01.md)
 * Dica #2 [Rootnilson Culposo](/2022/04/dica_02/dica_02.md)
 * Dica #3 [Rootnilson Culposo](/2022/04/dica_03/dica_03.md)
+* Dica #4 [Ricardo Coelho de Sousa](/2022/05/dica_04/dica_04.md)
